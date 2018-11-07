@@ -1,0 +1,14 @@
+c:\users\erinlee\documents\visual studio 2017\Projects\ServerForm\ServerForm\bin\Debug\ServerForm.exe.config
+c:\users\erinlee\documents\visual studio 2017\Projects\ServerForm\ServerForm\bin\Debug\ServerForm.exe
+c:\users\erinlee\documents\visual studio 2017\Projects\ServerForm\ServerForm\bin\Debug\ServerForm.pdb
+c:\users\erinlee\documents\visual studio 2017\Projects\ServerForm\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+c:\users\erinlee\documents\visual studio 2017\Projects\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.Cache
+c:\users\erinlee\documents\visual studio 2017\Projects\ServerForm\ServerForm\obj\Debug\ServerForm.exe
+c:\users\erinlee\documents\visual studio 2017\Projects\ServerForm\ServerForm\obj\Debug\ServerForm.pdb
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\obj\Debug\ServerForm.Form1.resources
+C:\Users\ErinLee\documents\visual studio 2017\Projects\ServerForm\ServerForm\obj\Debug\ServerForm.Form2.resources
+C:\Users\ErinLee\documents\visual studio 2017\Projects\ServerForm\ServerForm\obj\Debug\ServerForm.csprojAssemblyReference.cache
+C:\Users\ErinLee\documents\visual studio 2017\Projects\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+C:\Users\ErinLee\documents\visual studio 2017\Projects\ServerForm\ServerForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ErinLee\documents\visual studio 2017\Projects\ServerForm\ServerForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ErinLee\documents\visual studio 2017\Projects\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.CopyComplete

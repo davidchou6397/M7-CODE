@@ -1,0 +1,17 @@
+{
+  "USBState": "False",
+  "URL1": "http://google.com",
+  "URL2": "http://www.kimo.com.tw",
+  "URL3": "http://jojoplay.net/test.jpg",
+  "URL4": "http://jojoplay.net/test.jpg",
+  "URL5": "",
+  "TEXT1": "1\n2",
+  "TEXT2": "A\nB\nC\nD",
+  "AccessTime1": "10",
+  "WarnTimeDownCount1": "5",
+  "MSG1": "1",
+  "AccessTime2": "10",
+  "WarnTimeDownCount2": "5",
+  "MSG2": "2",
+  "ROOT": "root"
+}

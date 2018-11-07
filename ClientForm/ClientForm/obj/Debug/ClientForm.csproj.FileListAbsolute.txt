@@ -1,0 +1,37 @@
+c:\users\erinlee\documents\visual studio 2017\Projects\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+c:\users\erinlee\documents\visual studio 2017\Projects\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+c:\users\erinlee\documents\visual studio 2017\Projects\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+c:\users\erinlee\documents\visual studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+c:\users\erinlee\documents\visual studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+c:\users\erinlee\documents\visual studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+c:\users\erinlee\documents\visual studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+c:\users\erinlee\documents\visual studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
+c:\users\erinlee\documents\visual studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Form2.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Form3.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Form4.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Form5.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\bin\Debug\Newtonsoft.Json.dll
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\bin\Debug\Newtonsoft.Json.xml
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.Browser.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.Form0.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.Form2.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.Form3.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.Form4.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.Form5.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.PasswordForm.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ClientForm\ClientForm\obj\Debug\ClientForm.pdb

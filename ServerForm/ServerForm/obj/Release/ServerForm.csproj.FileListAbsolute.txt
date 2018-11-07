@@ -1,0 +1,27 @@
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\bin\Release\ServerForm.exe.config
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\bin\Release\ServerForm.exe
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\bin\Release\ServerForm.pdb
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\bin\Release\Newtonsoft.Json.dll
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\bin\Release\Newtonsoft.Json.xml
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\obj\Release\ServerForm.csprojAssemblyReference.cache
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\obj\Release\ServerForm.Form1.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\obj\Release\ServerForm.Form2.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\obj\Release\ServerForm.Properties.Resources.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\obj\Release\ServerForm.csproj.GenerateResource.cache
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\obj\Release\ServerForm.csproj.CoreCompileInputs.cache
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\obj\Release\ServerForm.csproj.CopyComplete
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\obj\Release\ServerForm.exe
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ServerForm\ServerForm\obj\Release\ServerForm.pdb
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\bin\Release\ServerForm.exe
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\bin\Release\Newtonsoft.Json.dll
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\bin\Release\ServerForm.exe.config
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\bin\Release\Newtonsoft.Json.xml
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\obj\Release\ServerForm.Form1.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\obj\Release\ServerForm.Form2.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\obj\Release\ServerForm.Properties.Resources.resources
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\obj\Release\ServerForm.csproj.GenerateResource.cache
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\obj\Release\ServerForm.csproj.CoreCompileInputs.cache
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\obj\Release\ServerForm.csproj.CopyComplete
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\obj\Release\ServerForm.exe
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\obj\Release\ServerForm.pdb
+E:\desktop\M7圖書館公用電腦管理軟體\CODE\ServerForm\ServerForm\bin\Release\ServerForm.pdb

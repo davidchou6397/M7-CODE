@@ -1,0 +1,16 @@
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\bin\Release\ClientForm.exe.config
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\bin\Release\ClientForm.exe
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\bin\Release\ClientForm.pdb
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\bin\Release\Newtonsoft.Json.dll
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\bin\Release\Newtonsoft.Json.xml
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.Form1.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.Form2.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.Form3.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.Form4.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.Properties.Resources.resources
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.csproj.GenerateResource.cache
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.csproj.CopyComplete
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.exe
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.pdb
+C:\Users\ErinLee\Documents\Visual Studio 2017\Projects\ClientForm\ClientForm\obj\Release\ClientForm.csprojAssemblyReference.cache
